@@ -10,6 +10,3 @@ my_list = [43948, 878768, 38768, 87555, 765765]
 for cijfer in my_list:
     if (cijfer%3 == 0):
         print(cijfer)
-# for...:
-#   if...:
-#       print()
