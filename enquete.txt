@@ -1,0 +1,2 @@
+{'naam': 'Bert', 'achternaam': 'Poepman', 'drank': 'Pis', 'eten': 'Kak'}
+{'naam': 'Joost', 'achternaam': 'Klein', 'drank': 'Bacardi', 'eten': 'Pizza'}
