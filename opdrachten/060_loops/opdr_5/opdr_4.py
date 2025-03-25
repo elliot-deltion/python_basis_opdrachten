@@ -9,4 +9,5 @@
 my_list = []
 for cijfer in range(1,20):
     my_list.append(cijfer*3)
-    print(my_list[:6])
+    
+print(my_list[:6])
