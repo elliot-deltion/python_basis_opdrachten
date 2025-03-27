@@ -2,9 +2,10 @@
 # Naam student: Elliot Kuster
 # Groep:
 
-import random
+import secrets
+
 prompt = "Raad mijn geheime getal \n"
-geheim_getal = random.randint(1, 100)
+geheim_getal = secrets.SystemRandom().randint(1, 100)
 
 # De rest moet jij doen.....
 active = True
